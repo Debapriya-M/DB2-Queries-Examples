@@ -1,0 +1,36 @@
+Q3 Part a:
+
+Without indexing:
+
+real	0m12.886s
+user	0m0.016s
+sys	0m0.026s
+
+
+After indexing:
+
+real	0m12.071s
+user	0m0.016s
+sys	0m0.028s
+
+Efficiency in query execution: 0.8 sec approximately.
+
+
+Q3 Part b:
+
+Without indexing:
+
+real	0m7.762s
+user	0m0.015s
+sys	0m0.023s
+
+
+After indexing:
+
+
+real	0m6.759s
+user	0m0.016s
+sys	0m0.020s
+
+
+Efficiency in query execution: 1 sec approximately.
